@@ -1,0 +1,12 @@
+Spawn URDF
+ign service -s /world/empty/create   --reqtype ignition.msgs.EntityFactory   --reptype ignition.msgs.Boolean   --timeout 3000   --req 'sdf_filename: "/home/jay/AVONE/robot.urdf", name: "A"'
+
+
+ros2 launch file 
+ros2 launch AVONE_description AVONE.launch.py 
+
+Colcon Build
+ros2 launch AVONE_description AVONE.launch.py 
+
+Source bash
+source install/setup.bash

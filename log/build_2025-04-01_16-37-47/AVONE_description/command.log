@@ -1,0 +1,4 @@
+Invoking command in '/home/jay/ros2_ws/src/AVONE_description/build/AVONE_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jay/ros2_ws/src/AVONE_description/build/AVONE_description -- -j32 -l32
+Invoked command in '/home/jay/ros2_ws/src/AVONE_description/build/AVONE_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jay/ros2_ws/src/AVONE_description/build/AVONE_description -- -j32 -l32
+Invoking command in '/home/jay/ros2_ws/src/AVONE_description/build/AVONE_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jay/ros2_ws/src/AVONE_description/build/AVONE_description
+Invoked command in '/home/jay/ros2_ws/src/AVONE_description/build/AVONE_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jay/ros2_ws/src/AVONE_description/build/AVONE_description

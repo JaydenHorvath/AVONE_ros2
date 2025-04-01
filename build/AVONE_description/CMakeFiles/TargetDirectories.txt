@@ -1,0 +1,9 @@
+/home/jay/ros2_ws/src/AVONE_description/build/AVONE_description/CMakeFiles/uninstall.dir
+/home/jay/ros2_ws/src/AVONE_description/build/AVONE_description/CMakeFiles/AVONE_description_uninstall.dir
+/home/jay/ros2_ws/src/AVONE_description/build/AVONE_description/CMakeFiles/test.dir
+/home/jay/ros2_ws/src/AVONE_description/build/AVONE_description/CMakeFiles/edit_cache.dir
+/home/jay/ros2_ws/src/AVONE_description/build/AVONE_description/CMakeFiles/rebuild_cache.dir
+/home/jay/ros2_ws/src/AVONE_description/build/AVONE_description/CMakeFiles/list_install_components.dir
+/home/jay/ros2_ws/src/AVONE_description/build/AVONE_description/CMakeFiles/install.dir
+/home/jay/ros2_ws/src/AVONE_description/build/AVONE_description/CMakeFiles/install/local.dir
+/home/jay/ros2_ws/src/AVONE_description/build/AVONE_description/CMakeFiles/install/strip.dir

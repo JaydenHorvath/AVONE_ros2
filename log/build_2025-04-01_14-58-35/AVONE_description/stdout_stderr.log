@@ -1,0 +1,71 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+-- Found xacro: 2.0.8 (/opt/ros/humble/share/xacro/cmake)
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+WARNING: Package name "AVONE_description" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'cpplint' to check C / C++ code against the Google style
+-- Configured cpplint exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jay/ros2_ws/src/AVONE_description/build/AVONE_description
+-- Install configuration: ""
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//rviz
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//rviz/quadruped.rviz
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//launch
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//launch/start_rviz.launch.py
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//launch/AVONE.launch.py
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/robot.urdf.xacro
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/config.json
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/chassis.stl
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/rear_wheel_hub.part
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/front_suspension.part
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/wheel.stl
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/front_wheel_hub.stl
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/rear_wheel_hub.stl
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/front_suspension.stl
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/rear_suspension.stl
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/wheel.part
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/rear_suspension.part
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/front_wheel_hub.part
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/chassis.part
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/robot_core.xacro
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/ament_index/resource_index/package_run_dependencies/AVONE_description
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/ament_index/resource_index/parent_prefix_path/AVONE_description
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/environment/ament_prefix_path.sh
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/environment/ament_prefix_path.dsv
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/environment/path.sh
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/environment/path.dsv
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/local_setup.bash
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/local_setup.sh
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/local_setup.zsh
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/local_setup.dsv
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/package.dsv
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/ament_index/resource_index/packages/AVONE_description
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/cmake/AVONE_descriptionConfig.cmake
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/cmake/AVONE_descriptionConfig-version.cmake
+-- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/package.xml

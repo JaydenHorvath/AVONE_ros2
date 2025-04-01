@@ -1,0 +1,4 @@
+source;share/AVONE_description/local_setup.bash
+source;share/AVONE_description/local_setup.dsv
+source;share/AVONE_description/local_setup.sh
+source;share/AVONE_description/local_setup.zsh

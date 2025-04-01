@@ -1,0 +1,77 @@
+[0.007s] Invoking command in '/home/jay/ros2_ws/src/AVONE_description/build/AVONE_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/jay/ros2_ws/src/AVONE_description -DCMAKE_INSTALL_PREFIX=/home/jay/ros2_ws/src/AVONE_description/install/AVONE_description
+[0.080s] -- The C compiler identification is GNU 11.4.0
+[0.139s] -- The CXX compiler identification is GNU 11.4.0
+[0.149s] -- Detecting C compiler ABI info
+[0.231s] -- Detecting C compiler ABI info - done
+[0.238s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.238s] -- Detecting C compile features
+[0.238s] -- Detecting C compile features - done
+[0.241s] -- Detecting CXX compiler ABI info
+[0.318s] -- Detecting CXX compiler ABI info - done
+[0.323s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.323s] -- Detecting CXX compile features
+[0.324s] -- Detecting CXX compile features - done
+[0.327s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.439s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.515s] -- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+[0.558s] -- Found xacro: 2.0.8 (/opt/ros/humble/share/xacro/cmake)
+[0.558s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.599s] WARNING: Package name "AVONE_description" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[0.615s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.619s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.619s] -- Configured cppcheck include dirs: 
+[0.619s] -- Configured cppcheck exclude dirs and/or files: 
+[0.622s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.622s] -- Configured cpplint exclude dirs and/or files: 
+[0.623s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.623s] -- Added test 'lint_cmake' to check CMake code style
+[0.624s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.627s] -- Added test 'uncrustify' to check C / C++ code style
+[0.627s] -- Configured uncrustify additional arguments: 
+[0.628s] -- Added test 'xmllint' to check XML markup files
+[0.629s] -- Configuring done
+[0.631s] -- Generating done
+[0.632s] -- Build files have been written to: /home/jay/ros2_ws/src/AVONE_description/build/AVONE_description
+[0.637s] Invoked command in '/home/jay/ros2_ws/src/AVONE_description/build/AVONE_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/jay/ros2_ws/src/AVONE_description -DCMAKE_INSTALL_PREFIX=/home/jay/ros2_ws/src/AVONE_description/install/AVONE_description
+[0.638s] Invoking command in '/home/jay/ros2_ws/src/AVONE_description/build/AVONE_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jay/ros2_ws/src/AVONE_description/build/AVONE_description -- -j32 -l32
+[0.671s] Invoked command in '/home/jay/ros2_ws/src/AVONE_description/build/AVONE_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jay/ros2_ws/src/AVONE_description/build/AVONE_description -- -j32 -l32
+[0.682s] Invoking command in '/home/jay/ros2_ws/src/AVONE_description/build/AVONE_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jay/ros2_ws/src/AVONE_description/build/AVONE_description
+[0.691s] -- Install configuration: ""
+[0.691s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//rviz
+[0.691s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//rviz/quadruped.rviz
+[0.691s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//launch
+[0.691s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//launch/start_rviz.launch.py
+[0.691s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//launch/AVONE.launch.py
+[0.691s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE
+[0.691s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/robot.urdf.xacro
+[0.691s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/config.json
+[0.691s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets
+[0.691s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/chassis.stl
+[0.691s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/rear_wheel_hub.part
+[0.691s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/front_suspension.part
+[0.692s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/wheel.stl
+[0.692s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/front_wheel_hub.stl
+[0.692s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/rear_wheel_hub.stl
+[0.692s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/front_suspension.stl
+[0.692s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/rear_suspension.stl
+[0.692s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/wheel.part
+[0.692s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/rear_suspension.part
+[0.692s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/front_wheel_hub.part
+[0.692s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/assets/chassis.part
+[0.692s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description//AVONE/robot_core.xacro
+[0.692s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/ament_index/resource_index/package_run_dependencies/AVONE_description
+[0.693s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/ament_index/resource_index/parent_prefix_path/AVONE_description
+[0.693s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/environment/ament_prefix_path.sh
+[0.693s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/environment/ament_prefix_path.dsv
+[0.693s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/environment/path.sh
+[0.693s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/environment/path.dsv
+[0.693s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/local_setup.bash
+[0.693s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/local_setup.sh
+[0.693s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/local_setup.zsh
+[0.693s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/local_setup.dsv
+[0.693s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/package.dsv
+[0.694s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/ament_index/resource_index/packages/AVONE_description
+[0.694s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/cmake/AVONE_descriptionConfig.cmake
+[0.694s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/cmake/AVONE_descriptionConfig-version.cmake
+[0.694s] -- Installing: /home/jay/ros2_ws/src/AVONE_description/install/AVONE_description/share/AVONE_description/package.xml
+[0.696s] Invoked command in '/home/jay/ros2_ws/src/AVONE_description/build/AVONE_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jay/ros2_ws/src/AVONE_description/build/AVONE_description
